@@ -1,0 +1,7 @@
+# Ignore all files in this folder
+*
+Debate_App/.env
+
+# But don't ignore these
+!.gitignore
+!rag.py
