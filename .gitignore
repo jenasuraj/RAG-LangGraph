@@ -1,6 +1,0 @@
-# Ignore all files in this folder
-*
-
-# But don't ignore these
-!.gitignore
-!rag.py
